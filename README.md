@@ -16,13 +16,13 @@ This flow creates a real-world workflow that also enables PMs to manage code rev
 3. Push (their branch) changes back to Organization repository
 4. Create a Pull Request to merge their branch to Master
 
-## During the Day — PMs:
+## PMs:
 
 1. Can see all Pull Requests, Branches, and Commits in one place
 2. Can easily see commit histories for each branch in one place
 3. Can clone the repo at any time to their machine and pull all student branches at the same time for review (in one file).
 
-## At th End of Review — PMs:
+## At the End of Review — PMs:
 
 1. Add a [REVIEW.md](http://review.md) file to each branch with comments for each student.
 2. Add a Solution Branch to the repo
