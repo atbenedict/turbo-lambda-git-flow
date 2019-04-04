@@ -22,7 +22,7 @@ This flow creates a real-world workflow that also enables PMs to manage code rev
 2. Can easily see commit histories for each branch in one place
 3. Can clone the repo at any time to their machine and pull all student branches at the same time for review (in one file).
 
-## At th End of the Day — PMs:
+## At th End of Review — PMs:
 
 1. Add a [REVIEW.md](http://review.md) file to each branch with comments for each student.
 2. Add a Solution Branch to the repo
