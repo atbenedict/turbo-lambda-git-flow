@@ -24,7 +24,7 @@ This flow creates a real-world workflow that also enables PMs to manage code rev
 
 ## At the End of Review — PMs:
 
-1. Add a [REVIEW.md](http://review.md) file to each branch with comments for each student.
+1. Add a [REVIEW.md](review.md) file to each branch with comments for each student.
 2. Add a Solution Branch to the repo
 3. Push the file back to the Organization
 4. Inform students that reviews are done for that repo and that they should review the comments and fork their own copies from the Organization repository.
