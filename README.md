@@ -14,7 +14,8 @@ This flow creates a real-world workflow that also enables PMs to manage code rev
 1. Clone the project/challenge from the Organization repository
 2. Create personal branch (firstname-lastname)
 3. Push (their branch) changes back to Organization repository
-4. Create a Pull Request to merge their branch to Master
+4. Create a Pull Request to merge their branch to Master (of the Organization, not Lambda)
+5. Request a Review from the PM
 
 ## PMs:
 
